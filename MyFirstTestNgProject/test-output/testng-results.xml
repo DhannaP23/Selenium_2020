@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="3" total="4" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="110" started-at="2020-01-22T13:34:59 IST" finished-at="2020-01-22T13:34:59 IST">
+    <groups>
+      <group name="regression">
+        <method signature="GroupsInTesting.test4()[pri:0, instance:testNgLearning.GroupsInTesting@4b4523f8]" name="test4" class="testNgLearning.GroupsInTesting"/>
+      </group> <!-- regression -->
+      <group name="end to end">
+        <method signature="GroupsInTesting.test4()[pri:0, instance:testNgLearning.GroupsInTesting@4b4523f8]" name="test4" class="testNgLearning.GroupsInTesting"/>
+      </group> <!-- end to end -->
+    </groups>
+    <test name="Test" duration-ms="110" started-at="2020-01-22T13:34:59 IST" finished-at="2020-01-22T13:34:59 IST">
+      <class name="testNgLearning.GroupsInTesting">
+        <test-method status="PASS" signature="test4()[pri:0, instance:testNgLearning.GroupsInTesting@4b4523f8]" name="test4" duration-ms="19" started-at="2020-01-22T13:34:59 IST" finished-at="2020-01-22T13:34:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+      </class> <!-- testNgLearning.GroupsInTesting -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
